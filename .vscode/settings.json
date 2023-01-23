@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/40a19c6b-47cd-449c-820f-33ec8381ce35/AppServices/subscriptions/40a19c6b-47cd-449c-820f-33ec8381ce35/resourceGroups/itcase-2223-a-rg/providers/Microsoft.Web/sites/QuizMeetingPanel",
+	"appService.deploySubpath": "."
+}
